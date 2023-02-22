@@ -7,6 +7,9 @@ An amplification circuit for EMG. It adopts the classic Driven Right Leg (DRL) c
 ## Layout
 [here](KiCADLayout.pdf)
 
+## A typical waveform produced by the circuit
+[here](contraction.pdf)
+
 ## Full list of materials
 
 <img src="material.PNG" alt="drawing" width="500"/>
